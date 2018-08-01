@@ -1,0 +1,29 @@
+{
+  "name": "bootcamp_terminal_test",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/NtandoF/bootcamp_terminal_test.svg?branch=master)](https://travis-ci.org/NtandoF/bootcamp_terminal_test)",
+  "main": "countAllFromTown.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NtandoF/bootcamp_terminal_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NtandoF/bootcamp_terminal_test/issues"
+  },
+  "homepage": "https://github.com/NtandoF/bootcamp_terminal_test#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
